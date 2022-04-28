@@ -1,3 +1,10 @@
+
+"""
+    Author: Aritra Bhattacharjee
+    Date of Working: 27.04.2022 to 28.04.2022
+    Tech Stack: Python, Tkinter.
+    About: A python based currency convertor app.
+"""
 from tkinter import *
 import currency_convertor
 from tkinter import ttk

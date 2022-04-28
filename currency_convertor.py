@@ -1,7 +1,11 @@
+"""
+    Author: Aritra Bhattacharjee
+    Date of Working: 27.04.2022 to 28.04.2022
+    Tech Stack: Python, Tkinter.
+    About: A python based currency convertor app.
+"""
 import requests
 from tkinter import *
-
-
 class RealTimeCurrencyConverter():
     def __init__(self):
         url = "https://api.exchangerate-api.com/v4/latest/USD"
